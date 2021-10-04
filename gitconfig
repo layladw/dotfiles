@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = layladewaegh@hotmail.com
+	name = Layla de Waegh
